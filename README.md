@@ -7,11 +7,14 @@ Student Segmentation and Course Recommendation System
 2. Problem Statement
 
 Online learning platforms have a large number of students with different learning behaviors, interests, and engagement levels.
+
 Providing the same courses to all students reduces personalization and learning efficiency.
+
 The objective of this project is to:
 Segment students into meaningful groups based on their behavior
 Recommend relevant courses to each group
 Improve personalized learning experience using data-driven techniques
+
 
 3. Dataset Description
 
@@ -29,6 +32,7 @@ transactions.csv:
 Records student enrollments with course IDs, transaction dates, and payment amounts.
 
 This synthetic dataset closely mimics real-world online learning data and is sufficient to demonstrate clustering and recommendation logic.
+
 
 4. Methodology
 
@@ -63,6 +67,7 @@ Cluster distribution was visualized
 
 Recommended courses were displayed for each segment
 
+
 5. Tools Used
 
 Python – Core programming language
@@ -79,6 +84,7 @@ Google Colab – Development environment
 
 GitHub – Version control and project hosting
 
+
 6. Result
 
 Students were successfully grouped into distinct clusters based on behavior
@@ -88,6 +94,7 @@ Each cluster showed unique learning and spending patterns
 Personalized course recommendations were generated for each student segment
 
 The system demonstrated how clustering improves personalization in learning platforms
+
 
 7. Conclusion
 
